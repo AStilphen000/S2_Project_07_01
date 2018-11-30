@@ -4,8 +4,8 @@
    Tutorial 5
    Case Problem 1
    
-   Author:   
-   Date:     
+   Author:   Angelina Stilphen
+   Date:     11.29.18
    
    Filename: gp_print.css
 
@@ -17,7 +17,9 @@
 
 
 /* Hidden Objects */
-
+nav, footer, article {
+    display: none;
+}
 
 
 
