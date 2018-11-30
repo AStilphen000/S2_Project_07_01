@@ -17,6 +17,8 @@
 
 
 /* Hidden Objects */
+
+/*These styles rules in comboination with the float element and position, determines the type of box or boxes that are generated for an element.*/
 nav, footer, article {
     display: none;
 }

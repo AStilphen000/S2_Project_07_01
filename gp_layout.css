@@ -57,10 +57,12 @@ article {
 
     nav.horizontal {
         order: 99;
+        -webkit-order: 99;
     }
 
     body > footer {
         order: 100;
+        -webkit-order: 100; 
     }
 
 }
@@ -74,7 +76,7 @@ article {
        display: flex;
        display: -webkit-flex;
        flex-flow: row nowrap;
-       -webkit-flex-flow: nowrap;
+       -webkit-flex-flow:row nowrap;
        height: 40px;
     }
 
